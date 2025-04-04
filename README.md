@@ -2,11 +2,11 @@
 
 ### What is USDT flashing?
 
-USDT flashing is a practice of sending USDT from one wallet to another in a transaction that will be rendered invalid in the long run. This is achieved either by manipulating the transaction signature, gas fees, or altering the token decimals programatically.
+Flashr is a USDT flashing software designed for experimental use, allowing users to simulate BTC and USDT transactions with various token variants, including Bitcoin Fantom, Wrapped Bitcoin, and USDT (ERC20, BEP20, TRC20). This proof-of-concept application is dummyproof in setup and operation, intended solely for testing purposes. Flash tokens mimic real cryptocurrencies but have limited utility—they cannot be traded on exchanges due to a lack of liquidity. However, they can be transferred between cold and hardware wallets for demonstration. While these tokens appear identical to genuine assets, their underlying code reveals their simulated nature. Flashr serves as an educational tool for blockchain experimentation, not for real-world transactions or financial gain. Use responsibly and strictly for testing.
 
-### USDT flashing software
 
-Coin Flashr is a USDT flashing software that lets users perform BTC and USDT flashing transactions with multiple variants of Bitcoin (including Bitcoin Fantom and Wrapped Bitcoin) and USDT (ERC20, BEP20, and TRC20). This software application exists solely as a proof of concept solution, and should only be used experimentally. The setup and utilization is entirely dummyproof. Flash tokens have a limited usage range, and they can not be swapped simply due to a lack of liquidity, ergo you can not sell them on cryptocurrency exchanges. That simply does not exist. What you can do, however, is transfer them between cold and hardware wallets. Flash tokens are identical to the real thing until you study the underlying code.
+
+
 
 ---
 
