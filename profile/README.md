@@ -27,15 +27,15 @@ Flash USDT redefines stablecoins with ultra-fast, low-cost, and secure transacti
 ---
 
 ## 📖– Public Resources  
-- ðŸŒ **[Official Website](https://github.com/cryptotab-soft)**  
-- ðŸ“‘ **[Smart Contract on BSC](https://bscscan.com/token/0x98bd98dac99ed529dA00370621fa06b52084f4ed)**  
-- ðŸ’¬ **[Community Telegram](https://t.me/FlashUSDTokens)**  
-- ðŸ“‚ **[GitHub Repository](https://github.com/FlashUSDTokens)**  
+- 🌐 **[Official Website](https://github.com/cryptotab-soft)**  
+- 📑 **[Smart Contract on BSC](https://bscscan.com/token/0x98bd98dac99ed529dA00370621fa06b52084f4ed)**  
+- 💬 **[Community Telegram](https://t.me/FlashUSDTokens)**  
+- 📂 **[GitHub Repository](https://github.com/FlashUSDTokens)**  
 
 ---
 
 ## 🔍 SEO Features  
-Weâ€™ve implemented cutting-edge SEO practices for discoverability:  
+We've implemented cutting-edge SEO practices for discoverability:  
 - **Schema Markup**: Ensures search engines understand project structure.  
 - **Meta Tags**: Keywords, descriptions, and Open Graph for better reach.  
 - **Optimized Speed**: Website built for performance and fast indexing.  
@@ -54,6 +54,6 @@ Weâ€™ve implemented cutting-edge SEO practices for discoverability:
 - **Website**: [https://Flashsoft.pro](https://flashusdtokens.github.io)  
 - **Telegram**: [@Flashdealer](https://t.me/Flashdealer)  
 - **GitHub**: [FlashUSDTokens](https://github.com/cryptotab-soft)  
-- ðŸ“§ **Email**: [Support@flashsoft.pro](mailto:support@flashsoft.pro)  
+- 📧 **Email**: [Support@flashsoft.pro](mailto:support@flashsoft.pro)  
 
-Be part of the revolution. Letâ€™s shape the future of decentralized finance together! ðŸŒŸ
+Be part of the revolution. Letâ€™s shape the future of decentralized finance together! 🌟
