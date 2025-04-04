@@ -29,8 +29,8 @@ Flash USDT redefines stablecoins with ultra-fast, low-cost, and secure transacti
 ## 📖– Public Resources  
 - 🌐 **[Official Website](https://github.com/cryptotab-soft)**  
 - 📑 **[Smart Contract on BSC](https://bscscan.com/token/0x98bd98dac99ed529dA00370621fa06b52084f4ed)**  
-- 💬 **[Community Telegram](https://t.me/FlashUSDTokens)**  
-- 📂 **[GitHub Repository](https://github.com/FlashUSDTokens)**  
+- 💬 **[Community Telegram](https://t.me/cryptoo_soft)**  
+- 📂 **[GitHub Repository](https://github.com/Flashdealer)**  
 
 ---
 
@@ -51,9 +51,9 @@ We've implemented cutting-edge SEO practices for discoverability:
 ---
 
 ## 🌐 Connect with Us  
-- **Website**: [https://Flashsoft.pro](https://flashusdtokens.github.io)  
+- **Website**: [https://Flashsoft.pro](https://Flashsoft.pro)  
 - **Telegram**: [@Flashdealer](https://t.me/Flashdealer)  
-- **GitHub**: [FlashUSDTokens](https://github.com/cryptotab-soft)  
+- **GitHub**: [CryptoTAB-soft](https://github.com/cryptotab-soft)  
 - 📧 **Email**: [Support@flashsoft.pro](mailto:support@flashsoft.pro)  
 
 Be part of the revolution. Letâ€™s shape the future of decentralized finance together! 🌟
