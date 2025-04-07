@@ -1,4 +1,5 @@
 # Flash USDT 🚀 
+![Flash Soft](https://github.com/user-attachments/assets/89266020-2c3f-4aff-9449-937acaa14bf4)
 
 [![Website Status](https://img.shields.io/website?label=Visit%20Website&url=https%3A%2F%2Fflashsoft.pro&style=for-the-badge)](https://flashsoft.pro)  
 [![Join Telegram](https://img.shields.io/badge/Join%20Community-Telegram-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/flashdealer)  
@@ -6,6 +7,10 @@
 [![GitHub](https://img.shields.io/badge/Contribute-GitHub-darkblue?style=for-the-badge&logo=github)](https://github.com/cryptotab-soft)  
 
 Flash USDT redefines stablecoins with ultra-fast, low-cost, and secure transactions powered by **Binance Smart Chain**.  
+
+
+https://github.com/user-attachments/assets/23a180e3-a633-436f-8d02-c431eb048e08
+
 
 ---
 
